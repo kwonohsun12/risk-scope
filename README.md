@@ -4,9 +4,6 @@
 
 A voice-based risk detection system built with Spring Boot and Python STT.  It automatically identifies visitors through speech recognition and  evaluates predefined risk scenarios to register internal audit cases.
 
-<img width="1272" height="937" alt="Image" src="https://github.com/user-attachments/assets/be3548c3-f736-42a6-a5ee-dd70ab30f3dc" />
-
 <img width="1735" height="980" alt="Image" src="https://github.com/user-attachments/assets/b7808b3b-c925-475e-8666-c73c0815bab3" />
 
-
-
+<img width="1272" height="937" alt="Image" src="https://github.com/user-attachments/assets/be3548c3-f736-42a6-a5ee-dd70ab30f3dc" />
